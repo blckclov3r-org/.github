@@ -1,9 +1,9 @@
-# Hi there, I'm Engr. Aljun Abrenica 💻
+# Welcome to blckclov3r 💻
 
-***I am a software developer & engineer from southeast Asia and a computer engineering graduate offering a strong foundation in software development and programming principles across multiple platforms. Experienced in object-oriented programming,
+***We are software developer & engineer from southeast Asia and a computer engineering graduate offering a strong foundation in software development and programming principles across multiple platforms. Experienced in object-oriented programming,
 debugging code, designing interfaces, etc.***
 
-## About Me
+
 
 [![GitHub](https://img.shields.io/badge/GitHub-blckclov3r-black)](https://github.com/blckclov3r)
 [![Bitbucket](https://img.shields.io/badge/Bitbucket-blckclov3r-1F4D7D)](https://bitbucket.org/blckclov3r)
@@ -28,11 +28,3 @@ debugging code, designing interfaces, etc.***
 
 <p>Skillful and with actual hands-on in the following software programming/technologies: HTML5, CSS3, Javascript, Jquery, Bootstrap, Ajax, PHP, Java, Kotlin, Android, Arduino, C/C++, Affinity Photo, Affinity Designer, ReactJS & WordPress</p>
 
-<br/>
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=blckclov3r&&show_icons=true)](https://blckclov3r.github.io)
-<div align="right">
-
-
-![GitHub Contributors Image](https://contrib.rocks/image?repo=blckclov3r/blckclov3r)
-</div>
